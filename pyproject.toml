@@ -1,0 +1,16 @@
+[project]
+name = "allPrint"
+version = "1"
+authors = [{ name="snailBoy"},]
+description = "priiiiiiiiiiiiiiiiiiiiiiiiiiiiiiint"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/sna1lBoy/allPrint"
+Issues = "https://www.youtube.com/watch?v=XGxIE1hr0w4&pp=ygUjcmljayBhc3RsZXkgbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
